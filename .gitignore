@@ -1,4 +1,4 @@
 secret.txt
-nodd_modules/
+node_modules/
 .env
 *.log
